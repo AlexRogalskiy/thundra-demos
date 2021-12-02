@@ -13,3 +13,6 @@
 [submodule "thundra-demo-google-pubsub-nodejs"]
 	path = thundra-demo-google-pubsub-nodejs
 	url = git@github.com:thundra-io/thundra-demo-google-pubsub-nodejs.git
+[submodule "thundra-demo-localstack-python"]
+	path = thundra-demo-localstack-python
+	url = git@github.com:thundra-io/thundra-demo-localstack-python.git
