@@ -1,0 +1,18 @@
+[submodule "thundra-demo-todo-app-java"]
+	path = thundra-demo-todo-app-java
+	url = git@github.com:thundra-io/thundra-demo-todo-app-java.git
+[submodule "thundra-demo-localstack-nodejs"]
+	path = thundra-demo-localstack-nodejs
+	url = git@github.com:thundra-io/thundra-demo-localstack-nodejs.git
+[submodule "thundra-demo-localstack-java"]
+	path = thundra-demo-localstack-java
+	url = git@github.com:thundra-io/thundra-demo-localstack-java.git
+[submodule "thundra-debugger-demo"]
+	path = thundra-debugger-demo
+	url = git@github.com:thundra-io/thundra-debugger-demo.git
+[submodule "thundra-demo-google-pubsub-nodejs"]
+	path = thundra-demo-google-pubsub-nodejs
+	url = git@github.com:thundra-io/thundra-demo-google-pubsub-nodejs.git
+[submodule "thundra-demo-localstack-python"]
+	path = thundra-demo-localstack-python
+	url = git@github.com:thundra-io/thundra-demo-localstack-python.git
